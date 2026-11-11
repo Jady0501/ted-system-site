@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Sustentabilidade",
+      descricao: "Promover o uso responsável dos recursos tecnológicos e ambientais.."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Jádylla Sophia Souza Lima",
+      cargo: "Programadora e Marketing",
+      foto: "/images/jadylla.jpg",
+      alt: "Foto Jadylla Sophia",
+      descricao: "Responsável por fazer o marketing e o layout da página."
     }
   ]
 };
